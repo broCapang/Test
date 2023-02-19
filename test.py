@@ -1,1 +1,1 @@
-print("ur mom")
+print("mak kau")
